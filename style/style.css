@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+#logoYT{
+width: 100px; 
+}
+
+#tr{
+    width: 30px;
+    right: 150;
+    top: 45;
+    position: absolute;  
+}
+
+#noti{
+    width: 26px;
+    right: 100;
+    top: 45;
+    position: absolute;  
+}
+
+#pesq{
+    width: 27px;
+    right: 50;
+    top: 47;
+    position: absolute;  
+}
+
+
+  .video-image {  
+    width: 385px;
+   
+  }
+  
+  #titulo {
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
