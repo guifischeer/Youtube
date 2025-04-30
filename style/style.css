@@ -38,3 +38,43 @@ width: 100px;
     font-weight: bold;
     color: #333;
   }
+
+  #videoprint{
+width: 400px;
+
+  }
+
+  .comentario {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #ffffff; 
+    color: #000000; 
+    font-family: sans-serif;
+    border-radius: 5px; 
+  }
+.avatar {
+    margin-right: 10px;
+}
+
+.texto {
+    flex-grow: 1;
+}
+
+.titulo {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.detalhes {
+    font-size: 12px;
+    color: #aaa;
+}
+
+.opcoes {
+    margin-left: 10px;
+    font-size: 20px;
+    color: #aaa;
+    cursor: pointer;
+}
